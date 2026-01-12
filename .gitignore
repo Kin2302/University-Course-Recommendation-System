@@ -1,0 +1,14 @@
+# Bỏ qua môi trường ảo (Rất quan trọng)
+venv/
+env/
+.env
+
+# Bỏ qua file cache chạy code
+__pycache__/
+*.py[cod]
+
+
+
+# Bỏ qua dữ liệu (nếu file data nặng > 100MB)
+*.csv
+*.xlsx
